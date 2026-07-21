@@ -18,7 +18,10 @@ I develop computer vision, deep learning, industrial inspection, and retrieval-a
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=ebad426623&style=flat-square&label=Profile+Views" alt="Profile views"/>
+<img
+  src="https://komarev.com/ghpvc/?username=ebad426623&style=flat-square&label=Profile+Views"
+  alt="Profile views"
+/>
 
 </div>
 
@@ -39,18 +42,48 @@ My work focuses on building practical AI systems that connect machine learning m
 
 ---
 
+## Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ebad426623/ebad426623/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ebad426623/ebad426623/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    width="100%"
+    alt="Ebad Hyder's GitHub contribution snake"
+    src="https://raw.githubusercontent.com/ebad426623/ebad426623/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
+---
+
 ## Technologies
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,java,js,ts,sql" alt="Programming languages"/>
+  <img
+    src="https://skillicons.dev/icons?i=python,cpp,c,cs,java,js,ts,sql"
+    alt="Programming languages"
+  />
 </p>
 
 ### AI and Computer Vision
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI and computer vision tools"/>
+  <img
+    src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"
+    alt="AI and computer vision tools"
+  />
 </p>
 
 `YOLO` · `CNNs` · `MediaPipe` · `Scikit-learn` · `NumPy` · `Pandas` · `KNN` · `PCA` · `K-Means` · `β-VAE`
@@ -58,7 +91,10 @@ My work focuses on building practical AI systems that connect machine learning m
 ### Backend and Engineering Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,docker,linux,git,github,qt,react,nodejs,postman" alt="Backend and engineering tools"/>
+  <img
+    src="https://skillicons.dev/icons?i=fastapi,django,docker,linux,git,github,qt,react,nodejs,postman"
+    alt="Backend and engineering tools"
+  />
 </p>
 
 `REST APIs` · `LangChain` · `Hugging Face` · `Chroma` · `Google Gemini` · `Cloudflare Tunnel` · `DigitalOcean`
@@ -80,6 +116,7 @@ The project evaluates how different prompt contents and prompting strategies aff
 **Technologies:** Python, Ollama, LLMs, prompt engineering, automated program repair
 
 </td>
+
 <td width="50%" valign="top">
 
 ### [Industrial Rock Classification](https://github.com/ebad426623/Machine-Vision---Rock-Classification)
@@ -103,6 +140,7 @@ A research project exploring PCA- and clustering-guided configuration of β-VAE 
 **Technologies:** Python, PyTorch, PCA, K-Means, β-VAE
 
 </td>
+
 <td width="50%" valign="top">
 
 ### [Newt Editor](https://github.com/ebad426623/newt)
@@ -156,17 +194,8 @@ The system retrieves relevant SDK documentation and generates grounded answers f
 
 <a href="https://github.com/ebad426623">
   <img
-    height="175"
-    src="https://github-readme-stats.vercel.app/api?username=ebad426623&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=github_dark"
-    alt="Ebad Hyder's GitHub statistics"
-  />
-</a>
-
-<a href="https://github.com/ebad426623?tab=repositories">
-  <img
-    height="175"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebad426623&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
-    alt="Ebad Hyder's most used languages"
+    src="https://streak-stats.demolab.com?user=ebad426623&theme=github-dark-blue&hide_border=true"
+    alt="Ebad Hyder's GitHub contribution streak"
   />
 </a>
 
@@ -178,50 +207,11 @@ The system retrieves relevant SDK documentation and generates grounded answers f
 
 <a href="https://github.com/ebad426623">
   <img
-    src="https://streak-stats.demolab.com?user=ebad426623&theme=github-dark-blue&hide_border=true"
-    alt="Ebad Hyder's GitHub streak"
-  />
-</a>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/ebad426623">
-  <img
     width="100%"
     src="https://github-readme-activity-graph.vercel.app/graph?username=ebad426623&theme=github-dark&hide_border=true&area=true"
-    alt="Ebad Hyder's contribution activity graph"
+    alt="Ebad Hyder's recent GitHub activity graph"
   />
 </a>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ebad426623/ebad426623/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ebad426623/ebad426623/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    width="100%"
-    alt="Ebad Hyder's contribution snake"
-    src="https://raw.githubusercontent.com/ebad426623/ebad426623/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 </div>
 
