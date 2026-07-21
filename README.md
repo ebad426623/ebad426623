@@ -6,11 +6,19 @@
 
 I develop computer vision, deep learning, industrial inspection, and retrieval-augmented generation systems using Python, C++, OpenCV, PyTorch, TensorFlow, and FastAPI.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://syed-ebad-hyder.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedebadhyder)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ebadhaider24@gmail.com)
+<p>
+  <a href="https://syed-ebad-hyder.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/syedebadhyder">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ebadhaider24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ebad426623&style=flat-square&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=ebad426623&style=flat-square&label=Profile+Views" alt="Profile views"/>
 
 </div>
 
@@ -36,13 +44,13 @@ My work focuses on building practical AI systems that connect machine learning m
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,java,js,ts,sql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,java,js,ts,sql" alt="Programming languages"/>
 </p>
 
 ### AI and Computer Vision
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI and computer vision tools"/>
 </p>
 
 `YOLO` · `CNNs` · `MediaPipe` · `Scikit-learn` · `NumPy` · `Pandas` · `KNN` · `PCA` · `K-Means` · `β-VAE`
@@ -50,7 +58,7 @@ My work focuses on building practical AI systems that connect machine learning m
 ### Backend and Engineering Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,docker,linux,git,github,qt,react,nodejs,postman" />
+  <img src="https://skillicons.dev/icons?i=fastapi,django,docker,linux,git,github,qt,react,nodejs,postman" alt="Backend and engineering tools"/>
 </p>
 
 `REST APIs` · `LangChain` · `Hugging Face` · `Chroma` · `Google Gemini` · `Cloudflare Tunnel` · `DigitalOcean`
@@ -129,7 +137,7 @@ At Aremak, I work on computer vision systems involving:
 
 ### Generative AI and RAG
 
-I have developed an internal technical documentation assistant using:
+I developed an internal technical documentation assistant using:
 
 - FastAPI
 - LangChain
@@ -146,15 +154,34 @@ The system retrieves relevant SDK documentation and generates grounded answers f
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=ebad426623&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" />
+<a href="https://github.com/ebad426623">
+  <img
+    height="175"
+    src="https://github-readme-stats.vercel.app/api?username=ebad426623&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=github_dark"
+    alt="Ebad Hyder's GitHub statistics"
+  />
+</a>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebad426623&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
+<a href="https://github.com/ebad426623?tab=repositories">
+  <img
+    height="175"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebad426623&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
+    alt="Ebad Hyder's most used languages"
+  />
+</a>
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ebad426623&theme=github-dark-blue&hide_border=true" />
+<a href="https://github.com/ebad426623">
+  <img
+    src="https://streak-stats.demolab.com?user=ebad426623&theme=github-dark-blue&hide_border=true"
+    alt="Ebad Hyder's GitHub streak"
+  />
+</a>
 
 </div>
 
@@ -164,17 +191,37 @@ The system retrieves relevant SDK documentation and generates grounded answers f
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ebad426623&theme=github-dark&hide_border=true&area=true" width="100%" />
+<a href="https://github.com/ebad426623">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ebad426623&theme=github-dark&hide_border=true&area=true"
+    alt="Ebad Hyder's contribution activity graph"
+  />
+</a>
 
 </div>
 
 ---
 
-## GitHub Achievements
+## Contribution Snake
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ebad426623&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ebad426623/ebad426623/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ebad426623/ebad426623/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    width="100%"
+    alt="Ebad Hyder's contribution snake"
+    src="https://raw.githubusercontent.com/ebad426623/ebad426623/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
@@ -182,15 +229,19 @@ The system retrieves relevant SDK documentation and generates grounded answers f
 
 ## Education
 
+### Bilkent University
+
 **M.S. in Computer Engineering**  
-Bilkent University · 2026–Present
+2026–Present
 
 - Researcher at the i-Vis Lab
 - Teaching Assistant
 - Research interests include AI, computer vision, graph visualization, and software engineering
 
+### Middle East Technical University
+
 **B.S. in Computer Engineering**  
-Middle East Technical University · 2021–2025
+2021–2025
 
 - CGPA: 3.46/4.00
 - Merit scholarship recipient
@@ -200,7 +251,13 @@ Middle East Technical University · 2021–2025
 
 ## Areas of Interest
 
-`Computer Vision` · `Deep Learning` · `Multimodal AI` · `Industrial AI` · `Image Processing` · `Generative AI` · `RAG` · `Representation Learning` · `Backend Engineering`
+<div align="center">
+
+`Computer Vision` · `Deep Learning` · `Multimodal AI` · `Industrial AI` · `Image Processing`
+
+`Generative AI` · `RAG` · `Representation Learning` · `Backend Engineering`
+
+</div>
 
 ---
 
