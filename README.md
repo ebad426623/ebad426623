@@ -39,6 +39,7 @@ My work focuses on building practical AI systems that connect machine learning m
 - Developing LLM and RAG applications using FastAPI, LangChain, Gemini, Hugging Face embeddings, and Chroma
 - Researching representation learning, automated program repair assessment, and graph visualization
 - Contributing to [Newt Editor](https://web.newteditor.org/), a biological network visualization platform
+- Managing server-side infrastructure for Bilkent's i-Vis Lab, including deployment automation and reverse proxy configuration
 
 ---
 
@@ -97,7 +98,7 @@ My work focuses on building practical AI systems that connect machine learning m
   />
 </p>
 
-`REST APIs` · `LangChain` · `Hugging Face` · `Chroma` · `Google Gemini` · `Cloudflare Tunnel` · `DigitalOcean`
+`REST APIs` · `LangChain` · `Hugging Face` · `Chroma` · `Google Gemini` · `Cloudflare Tunnel` · `DigitalOcean` · `Nginx` · `PM2` · `crontab`
 
 ---
 
@@ -180,6 +181,16 @@ A hand-tracked jigsaw puzzle prototype where gestures replace mouse input — gr
 
 ## Current Work
 
+### Lab Infrastructure
+
+I manage server-side infrastructure for Bilkent University's i-Vis Lab, including:
+
+- Migrating all lab services to a new public server from scratch
+- Deploying and managing services with SSH, PM2, and Docker
+- Configuring Nginx for HTTP/HTTPS routing and Cloudflare domain management
+- Building `rebuild.sh` automation scripts for pulling, rebuilding, and redeploying services
+- Configuring crontab-scheduled deployments for the internal server, alongside manual triggers
+  
 ### Industrial Computer Vision
 
 At Aremak, I work on computer vision systems involving:
@@ -245,8 +256,8 @@ The system retrieves relevant SDK documentation and generates grounded answers f
 **M.S. in Computer Engineering**  
 2026–Present
 
-- Researcher at the i-Vis Lab
-- Teaching Assistant
+- Teaching Assistant, Department of Computer Engineering
+- Research Assistant at the i-Vis Lab
 - Research interests include AI, computer vision, graph visualization, and software engineering
 
 ### Middle East Technical University
@@ -266,7 +277,7 @@ The system retrieves relevant SDK documentation and generates grounded answers f
 
 `Computer Vision` · `Deep Learning` · `Multimodal AI` · `Industrial AI` · `Image Processing`
 
-`Generative AI` · `RAG` · `Representation Learning` · `Backend Engineering`
+`Generative AI` · `LLMs` · `RAG` · `Reinforcement Learning` · `Representation Learning` · `Backend Engineering`
 
 </div>
 
