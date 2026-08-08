@@ -107,6 +107,17 @@ My work focuses on building practical AI systems that connect machine learning m
 <tr>
 <td width="50%" valign="top">
 
+### [VisionOps](https://github.com/ebad426623/visionops-defect-detection)
+
+A production-style MLOps pipeline for industrial steel surface defect classification, covering the full ML lifecycle from data validation to monitoring and drift detection.
+
+Includes reproducible training with DVC, experiment tracking and model registry with MLflow, containerized FastAPI inference, and Prometheus/Grafana monitoring.
+
+**Technologies:** Python, PyTorch, FastAPI, MLflow, DVC, Docker, Prometheus, Grafana
+
+</td>
+<td width="50%" valign="top">
+
 ### [PromptAPCA](https://github.com/ebad426623/PromptAPCA)
 
 An empirical framework for LLM-based automated patch correctness assessment.
@@ -116,7 +127,9 @@ The project evaluates how different prompt contents and prompting strategies aff
 **Technologies:** Python, Ollama, LLMs, prompt engineering, automated program repair
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
 ### [Industrial Rock Classification](https://github.com/ebad426623/Machine-Vision---Rock-Classification)
@@ -128,9 +141,6 @@ The pipeline uses image segmentation, background subtraction, feature extraction
 **Technologies:** Python, OpenCV, Hikrobot cameras, KNN
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### [Adaptive Beta Sampling](https://github.com/ebad426623/adaptive-beta-sampling)
@@ -140,7 +150,9 @@ A research project exploring PCA- and clustering-guided configuration of β-VAE 
 **Technologies:** Python, PyTorch, PCA, K-Means, β-VAE
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
 ### [Newt Editor](https://github.com/ebad426623/newt)
@@ -150,6 +162,15 @@ A web-based platform for visualizing and editing biological networks and systems
 I contribute as a researcher in Bilkent University's i-Vis Lab.
 
 **Technologies:** JavaScript, graph visualization, Cytoscape.js
+
+</td>
+<td width="50%" valign="top">
+
+### [Air Puzzle](https://github.com/ebad426623/air-puzzle)
+
+A hand-tracked jigsaw puzzle prototype where gestures replace mouse input — grab with a closed fist, release with an open hand, restart with a circular motion.
+
+**Technologies:** Python, PySide6, OpenCV, MediaPipe
 
 </td>
 </tr>
